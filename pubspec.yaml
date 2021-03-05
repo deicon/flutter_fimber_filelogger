@@ -14,7 +14,7 @@ dependencies:
   flutter_fimber: ^0.4.4
 
   path_provider: ^1.6.11
-  intl: ^0.16.1
+  intl: any 
   path: ^1.7.0
   synchronized: ^2.2.0+2
 
